@@ -1,0 +1,35 @@
+{
+  "id": "c134845e-8d76-4df9-949c-83b89cd2fd2b",
+  "name": "when can i take my baby swimming?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Babies can go into water from birth. However, they can\u0027t regulate their temperature like adults, so it\u0027s very important to make sure they don\u0027t get too cold. Babies can also pick up an infection from water. Therefore, it\u0027s generally best to wait until your baby is around 4 months old before you take them swimming."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
